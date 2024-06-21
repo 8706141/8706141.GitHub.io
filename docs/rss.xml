@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>我的博客</title><link>https://8706141.GitHub.io</link><description>My Blog</description><copyright>我的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/49219563</url><title>avatar</title><link>https://8706141.GitHub.io</link></image><lastBuildDate>Fri, 21 Jun 2024 05:42:59 +0000</lastBuildDate><managingEditor>我的博客</managingEditor><ttl>60</ttl><webMaster>我的博客</webMaster><item><title>搜索引擎</title><link>https://8706141.GitHub.io/post/sou-suo-yin-qing.html</link><description>https://www.xiaohongshu.com/search_result/?keyword=%s&amp;source=unknown&amp;type=51&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>我的博客</title><link>https://8706141.GitHub.io</link><description>My Blog</description><copyright>我的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/49219563</url><title>avatar</title><link>https://8706141.GitHub.io</link></image><lastBuildDate>Fri, 21 Jun 2024 05:44:50 +0000</lastBuildDate><managingEditor>我的博客</managingEditor><ttl>60</ttl><webMaster>我的博客</webMaster><item><title>搜索引擎</title><link>https://8706141.GitHub.io/post/sou-suo-yin-qing.html</link><description>https://www.xiaohongshu.com/search_result/?keyword=%s&amp;source=unknown&amp;type=51&#13;
 https://s.taobao.com/search?q=%s&#13;
 https://chromewebstore.google.com/search/%s&#13;
 https://soso.nipic.com/?q=%s&#13;
@@ -22,6 +22,8 @@ Buster: Captcha Solver for Humans 一键自动跳过验证&#13;
 Search by Image&#13;
 &#13;
 Fatkun图片批量下载&#13;
+&#13;
+AIX智能下载器&#13;
 &#13;
 Microsoft 自动填充&#13;
 &#13;
