@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>我的博客</title><link>https://8706141.GitHub.io</link><description>My Blog</description><copyright>我的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/49219563</url><title>avatar</title><link>https://8706141.GitHub.io</link></image><lastBuildDate>Sat, 22 Jun 2024 00:20:59 +0000</lastBuildDate><managingEditor>我的博客</managingEditor><ttl>60</ttl><webMaster>我的博客</webMaster><item><title>猫眼浏览器启用谷歌同步方法</title><link>https://8706141.GitHub.io/post/mao-yan-liu-lan-qi-qi-yong-gu-ge-tong-bu-fang-fa.html</link><description>[启用Google同步](https://www.catsxp.com/forum/viewtopic.php?p=7028&amp;sid=75b050707ab97e372ad8313904d4ae36#p7028)&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>我的博客</title><link>https://8706141.GitHub.io</link><description>My Blog</description><copyright>我的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/49219563</url><title>avatar</title><link>https://8706141.GitHub.io</link></image><lastBuildDate>Sat, 22 Jun 2024 00:22:03 +0000</lastBuildDate><managingEditor>我的博客</managingEditor><ttl>60</ttl><webMaster>我的博客</webMaster><item><title>猫眼浏览器启用谷歌同步方法</title><link>https://8706141.GitHub.io/post/mao-yan-liu-lan-qi-qi-yong-gu-ge-tong-bu-fang-fa.html</link><description>[启用Google同步](https://www.catsxp.com/forum/viewtopic.php?p=7028&amp;sid=75b050707ab97e372ad8313904d4ae36#p7028)&#13;
 [帖子](https://www.catsxp.com/forum/viewtopic.php?p=7028&amp;sid=75b050707ab97e372ad8313904d4ae36#p7028) 由 [catsxp](https://www.catsxp.com/forum/memberlist.php?mode=viewprofile&amp;u=2&amp;sid=75b050707ab97e372ad8313904d4ae36) » 2024年 3月 30日 10:52&#13;
 &#13;
 版本: 4.4.2+&#13;
@@ -28,7 +28,8 @@ https://soso.nipic.com/?q=%s&#13;
 https://wall.alphacoders.com/search.php?search=%s&#13;
 https://github.com/search?q=%s&amp;type=repositories&amp;s=stars&amp;o=desc&#13;
 https://www.shutterstock.com/zh/search/%s&#13;
-https://www.youtube.com/results?search_query=%s。</description><guid isPermaLink="true">https://8706141.GitHub.io/post/sou-suo-yin-qing.html</guid><pubDate>Fri, 21 Jun 2024 05:26:11 +0000</pubDate></item><item><title>浏览器插件</title><link>https://8706141.GitHub.io/post/liu-lan-qi-cha-jian.html</link><description>[chrome商店](https://chromewebstore.google.com/category/extensions) &#13;
+https://www.youtube.com/results?search_query=%s&#13;
+https://search.bilibili.com/all?keyword=%s。</description><guid isPermaLink="true">https://8706141.GitHub.io/post/sou-suo-yin-qing.html</guid><pubDate>Fri, 21 Jun 2024 05:26:11 +0000</pubDate></item><item><title>浏览器插件</title><link>https://8706141.GitHub.io/post/liu-lan-qi-cha-jian.html</link><description>[chrome商店](https://chromewebstore.google.com/category/extensions) &#13;
 &#13;
 [edge商店](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home?hl=zh-cn)&#13;
 &#13;
