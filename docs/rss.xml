@@ -1,5 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>我的博客</title><link>https://8706141.GitHub.io</link><description>My Blog</description><copyright>我的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/49219563</url><title>avatar</title><link>https://8706141.GitHub.io</link></image><lastBuildDate>Sat, 22 Jun 2024 13:06:40 +0000</lastBuildDate><managingEditor>我的博客</managingEditor><ttl>60</ttl><webMaster>我的博客</webMaster><item><title>猫眼浏览器启用谷歌同步方法</title><link>https://8706141.GitHub.io/post/mao-yan-liu-lan-qi-qi-yong-gu-ge-tong-bu-fang-fa.html</link><description>[启用Google同步](https://www.catsxp.com/forum/viewtopic.php?p=7028&amp;sid=75b050707ab97e372ad8313904d4ae36#p7028)&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>我的博客</title><link>https://8706141.GitHub.io</link><description>My Blog</description><copyright>我的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/49219563</url><title>avatar</title><link>https://8706141.GitHub.io</link></image><lastBuildDate>Sun, 23 Jun 2024 02:17:21 +0000</lastBuildDate><managingEditor>我的博客</managingEditor><ttl>60</ttl><webMaster>我的博客</webMaster><item><title>空调遥控器的符号代表什么意思</title><link>https://8706141.GitHub.io/post/kong-diao-yao-kong-qi-de-fu-hao-dai-biao-shen-me-yi-si.html</link><description>空调符号：&#13;
+&#13;
+1.三角形符号：表示为自动模式，空调会根据室内温度高低自动进行制冷或制热工作；&#13;
+&#13;
+2.雨滴符号：除霜模式，空调进行除霜工作，其实也就是制冷工作模式，室内机风扇转速为低速，工作时间为间断性工作；&#13;
+&#13;
+3.太阳符号：制热模式，空调进行制热工作；&#13;
+&#13;
+4.类似风火轮的符号：通风模式，只有室内机风扇工作，进行通风换气；&#13;
+&#13;
+5.雪花符号：制冷模式，空调进行制冷工作；&#13;
+&#13;
+6.五角星大概是睡眠模式；&#13;
+&#13;
+7.四个箭头朝一个方向的符号是风向旋转功能按键，按动该按键选择合适的风向。</description><guid isPermaLink="true">https://8706141.GitHub.io/post/kong-diao-yao-kong-qi-de-fu-hao-dai-biao-shen-me-yi-si.html</guid><pubDate>Sun, 23 Jun 2024 02:16:54 +0000</pubDate></item><item><title>猫眼浏览器启用谷歌同步方法</title><link>https://8706141.GitHub.io/post/mao-yan-liu-lan-qi-qi-yong-gu-ge-tong-bu-fang-fa.html</link><description>[启用Google同步](https://www.catsxp.com/forum/viewtopic.php?p=7028&amp;sid=75b050707ab97e372ad8313904d4ae36#p7028)&#13;
 [帖子](https://www.catsxp.com/forum/viewtopic.php?p=7028&amp;sid=75b050707ab97e372ad8313904d4ae36#p7028) 由 [catsxp](https://www.catsxp.com/forum/memberlist.php?mode=viewprofile&amp;u=2&amp;sid=75b050707ab97e372ad8313904d4ae36) » 2024年 3月 30日 10:52&#13;
 &#13;
 版本: 4.4.2+&#13;
