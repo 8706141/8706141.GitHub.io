@@ -1,3 +1,6 @@
+http://youtube.com/favicon.ico
+https://search.bilibili.com/favicon.ico
+http://google.com/favicon.ico
 https://static.ntimg.cn/original/images/favicon.ico
 https://www.xiaohongshu.com/favicon.ico
 https://www.shutterstock.com/favicon.ico
