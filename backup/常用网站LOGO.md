@@ -1,0 +1,6 @@
+https://static.ntimg.cn/original/images/favicon.ico
+https://www.xiaohongshu.com/favicon.ico
+https://www.shutterstock.com/favicon.ico
+https://wall.alphacoders.com/favicon.ico
+https://fonts.gstatic.com/s/i/productlogos/chrome_store/v7/192px.svg
+https://microsoftedge.microsoft.com/favicon.ico
